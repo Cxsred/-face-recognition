@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Face Recognition</title>
+ 
 </head>
 <body>
   <h1>Face Recognition</h1>
