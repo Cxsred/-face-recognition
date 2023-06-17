@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Face Detection using OpenCV</title>
+  
 </head>
 <body>
   <h1>Face Detection using OpenCV</h1>
