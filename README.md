@@ -17,7 +17,7 @@
   <h2>Installation</h2>
   <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone &lt;repository-url&gt;</code></pre>
+    <pre><code>git clone &lt;[repository-url](https://github.com/Cxsred/-face-recognition.git)&gt;</code></pre>
     <pre><code>cd face-detection-opencv</code></pre>
     <li>Install the required dependencies:</li>
     <pre><code>pip install opencv-python</code></pre>
